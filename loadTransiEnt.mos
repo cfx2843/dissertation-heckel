@@ -1,0 +1,41 @@
+// define local paths (absolute paths with front slashes)
+
+Advanced.EnableCodeExport = false;
+
+repopath="REPOPATH";		// Ordner, in dem resilientee-sources und transient-sources und Phdbookk liegen
+nachname="/NACHNAME"
+resultpath="RESULTPATH";
+version="1.0.1";
+
+// Some recommended options
+Advanced.GenerateAnalyticJacobian=false;
+Advanced.DefaultStoreAsOneFile=false;
+Advanced.MaxLineLength=1000;
+
+Evaluate=true;
+
+// Define units
+//RunScript(repopath + "transient-sources/transient_library/TransiEnt/Scripts/loadTransiEntUnits.mos", true);
+
+// ==== Load frequently used libraries:
+//
+openModel(repopath+"/transient-sources/transient_library/TransiEnt/package.mo");
+//openModel(repopath+"/resilientee-sources/transient_library/ResilientEE/package.mo");
+openModel(repopath+"/resilientee-sources/transient_library/TransientEE/package.mo");
+openModel(repopath+"/resilientee-sources/transient_library/TransiEntDevZone/package.mo");
+openModel(repopath+nachname +"/Phdbook/package.mo");
+
+openModel(repopath + "/transient-sources"+ "/ClaRa 1.3.0/ClaRa/package.mo");
+openModel(repopath +"/transient-sources"+ "/ClaRa 1.3.0/TILMedia 1.3.0 ClaRa/package.mo");
+//openModel(repopath + "/transient-sources"+"/ClaRa 1.2.2/FluidDissipation 1.1.8/package.mo");
+
+// ==== Set environtment variables:
+//
+Modelica.Utilities.System.setEnvironmentVariable("workingdir", resultpath);
+Modelica.Utilities.System.setEnvironmentVariable("startupscript", repopath + "/loadTransiEnt.mos");
+Modelica.Utilities.System.setEnvironmentVariable("public-data", repopath + "/transient-sources/transient_library/TransiEnt/Tables/");
+Modelica.Utilities.System.setEnvironmentVariable("private-data", repopath + "/transient-sources/transient_library/TransiEnt/Tables/");
+
+// ==== Change working directory:
+//
+cd(resultpath)

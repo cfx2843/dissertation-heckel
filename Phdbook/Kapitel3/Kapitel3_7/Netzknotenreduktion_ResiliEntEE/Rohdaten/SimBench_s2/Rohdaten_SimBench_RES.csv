@@ -1,0 +1,480 @@
+id;node;type;profile;calc_type;pRES;qRES;sR;subnet;voltLvl
+EHV Sgen 1;EHV Bus 1489;biomass;BM1;pq;16.5;0;16.5;EHV1;1
+EHV Sgen 2;EHV Bus 221;biomass;BM2;pq;20;0;20;EHV1;1
+EHV Sgen 3;EHV Bus 1739;biomass;BM3;pq;22;0;22;EHV1;1
+EHV Sgen 4;EHV Bus 1585;biomass;BM4;pq;20;0;20;EHV1;1
+EHV Sgen 5;EHV Bus 29;biomass;BM5;pq;20;0;20;EHV1;1
+EHV Sgen 6;EHV Bus 425;biomass;BM1;pq;14;0;14;EHV1;1
+EHV Sgen 7;EHV Bus 1921;biomass;BM2;pq;78;0;78;EHV1;1
+EHV Sgen 8;EHV Bus 389;biomass;BM3;pq;15.1;0;15.1;EHV1;1
+EHV Sgen 9;EHV Bus 223;biomass;BM4;pq;17.8;0;17.8;EHV1;1
+EHV Sgen 10;EHV Bus 3;biomass;BM5;pq;22;0;22;EHV1;1
+EHV Sgen 11;EHV Bus 1673;biomass;BM1;pq;40;0;40;EHV1;1
+EHV Sgen 12;EHV Bus 1505;biomass;BM2;pq;12.3;0;12.3;EHV1;1
+EHV Sgen 13;EHV Bus 1575;biomass;BM3;pq;15;0;15;EHV1;1
+EHV Sgen 14;EHV Bus 1637;biomass;BM4;pq;13.3;0;13.3;EHV1;1
+EHV Sgen 15;EHV Bus 421;biomass;BM5;pq;14;0;14;EHV1;1
+EHV Sgen 16;EHV Bus 95;biomass;BM1;pq;18.1;0;18.1;EHV1;1
+EHV Sgen 17;EHV Bus 1829;biomass;BM2;pq;10;0;10;EHV1;1
+EHV Sgen 18;EHV Bus 487;run of river;Hydro1;pq;79.5;0;79.5;EHV1;1
+EHV Sgen 19;EHV Bus 505;run of river;Hydro2;pq;40.4;0;40.4;EHV1;1
+EHV Sgen 20;EHV Bus 267;run of river;Hydro3;pq;36.8;0;36.8;EHV1;1
+EHV Sgen 21;EHV Bus 469;run of river;Hydro1;pq;10.3;0;10.3;EHV1;1
+EHV Sgen 22;EHV Bus 487;run of river;Hydro2;pq;24;0;24;EHV1;1
+EHV Sgen 23;EHV Bus 349;run of river;Hydro3;pq;9.7;0;9.7;EHV1;1
+EHV Sgen 24;EHV Bus 365;run of river;Hydro1;pq;36.5;0;36.5;EHV1;1
+EHV Sgen 25;EHV Bus 499;run of river;Hydro2;pq;17.8;0;17.8;EHV1;1
+EHV Sgen 26;EHV Bus 1931;run of river;Hydro3;pq;22;0;22;EHV1;1
+EHV Sgen 27;EHV Bus 1733;run of river;Hydro1;pq;25;0;25;EHV1;1
+EHV Sgen 28;EHV Bus 1915;run of river;Hydro2;pq;66;0;66;EHV1;1
+EHV Sgen 29;EHV Bus 1931;run of river;Hydro3;pq;148;0;148;EHV1;1
+EHV Sgen 30;EHV Bus 343;run of river;Hydro1;pq;16.7;0;16.7;EHV1;1
+EHV Sgen 31;EHV Bus 501;run of river;Hydro2;pq;50;0;50;EHV1;1
+EHV Sgen 32;EHV Bus 437;run of river;Hydro3;pq;19;0;19;EHV1;1
+EHV Sgen 33;EHV Bus 469;run of river;Hydro1;pq;10.1;0;10.1;EHV1;1
+EHV Sgen 34;EHV Bus 469;run of river;Hydro2;pq;19.2;0;19.2;EHV1;1
+EHV Sgen 35;EHV Bus 349;run of river;Hydro3;pq;11.3;0;11.3;EHV1;1
+EHV Sgen 36;EHV Bus 343;run of river;Hydro1;pq;12;0;12;EHV1;1
+EHV Sgen 37;EHV Bus 1829;run of river;Hydro2;pq;22.3;0;22.3;EHV1;1
+EHV Sgen 38;EHV Bus 503;run of river;Hydro3;pq;26.1;0;26.1;EHV1;1
+EHV Sgen 39;EHV Bus 1733;run of river;Hydro1;pq;36.6;0;36.6;EHV1;1
+EHV Sgen 40;EHV Bus 1733;run of river;Hydro2;pq;30;0;30;EHV1;1
+EHV Sgen 41;EHV Bus 349;run of river;Hydro3;pq;11.9;0;11.9;EHV1;1
+EHV Sgen 42;EHV Bus 505;run of river;Hydro1;pq;53.7;0;53.7;EHV1;1
+EHV Sgen 43;EHV Bus 505;run of river;Hydro2;pq;43.2;0;43.2;EHV1;1
+EHV Sgen 44;EHV Bus 503;run of river;Hydro3;pq;19.4;0;19.4;EHV1;1
+EHV Sgen 45;EHV Bus 479;run of river;Hydro1;pq;46.7;0;46.7;EHV1;1
+EHV Sgen 46;EHV Bus 479;run of river;Hydro2;pq;30;0;30;EHV1;1
+EHV Sgen 47;EHV Bus 1733;run of river;Hydro3;pq;35.1;0;35.1;EHV1;1
+EHV Sgen 48;EHV Bus 1733;run of river;Hydro1;pq;38.2;0;38.2;EHV1;1
+EHV Sgen 49;EHV Bus 343;run of river;Hydro2;pq;12;0;12;EHV1;1
+EHV Sgen 50;EHV Bus 343;run of river;Hydro3;pq;12.2;0;12.2;EHV1;1
+EHV Sgen 51;EHV Bus 251;run of river;Hydro1;pq;24;0;24;EHV1;1
+EHV Sgen 52;EHV Bus 343;run of river;Hydro2;pq;12.4;0;12.4;EHV1;1
+EHV Sgen 53;EHV Bus 469;run of river;Hydro3;pq;10.5;0;10.5;EHV1;1
+EHV Sgen 54;EHV Bus 469;run of river;Hydro1;pq;16.6;0;16.6;EHV1;1
+EHV Sgen 55;EHV Bus 1733;run of river;Hydro2;pq;25;0;25;EHV1;1
+EHV Sgen 56;EHV Bus 503;run of river;Hydro3;pq;23.2;0;23.2;EHV1;1
+EHV Sgen 57;EHV Bus 499;run of river;Hydro1;pq;18;0;18;EHV1;1
+EHV Sgen 58;EHV Bus 503;run of river;Hydro2;pq;85.3;0;85.3;EHV1;1
+EHV Sgen 59;EHV Bus 367;run of river;Hydro3;pq;12.6;0;12.6;EHV1;1
+EHV Sgen 60;EHV Bus 1829;run of river;Hydro1;pq;25;0;25;EHV1;1
+EHV Sgen 61;EHV Bus 1733;wind onshore;WP6;pq;24.1;0;24.1;EHV1;1
+EHV Sgen 62;EHV Bus 467;wind onshore;WP11;pq;25.3;0;25.3;EHV1;1
+EHV Sgen 63;EHV Bus 99;wind onshore;WP6;pq;36;0;36;EHV1;1
+EHV Sgen 64;EHV Bus 99;wind onshore;WP6;pq;16.5;0;16.5;EHV1;1
+EHV Sgen 65;EHV Bus 45;wind onshore;WP5;pq;53.6;0;53.6;EHV1;1
+EHV Sgen 66;EHV Bus 221;wind onshore;WP6;pq;21.9;0;21.9;EHV1;1
+EHV Sgen 67;EHV Bus 115;wind onshore;WP6;pq;30;0;30;EHV1;1
+EHV Sgen 68;EHV Bus 115;wind onshore;WP6;pq;14;0;14;EHV1;1
+EHV Sgen 69;EHV Bus 1639;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 70;EHV Bus 53;wind onshore;WP10;pq;52.8;0;52.8;EHV1;1
+EHV Sgen 71;EHV Bus 1637;wind onshore;WP6;pq;33.5;0;33.5;EHV1;1
+EHV Sgen 72;EHV Bus 101;wind onshore;WP6;pq;10.5;0;10.5;EHV1;1
+EHV Sgen 73;EHV Bus 95;wind onshore;WP6;pq;16.9;0;16.9;EHV1;1
+EHV Sgen 74;EHV Bus 103;wind onshore;WP6;pq;13.5;0;13.5;EHV1;1
+EHV Sgen 75;EHV Bus 455;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 76;EHV Bus 1865;wind onshore;WP8;pq;36;0;36;EHV1;1
+EHV Sgen 77;EHV Bus 31;wind onshore;WP8;pq;25;0;25;EHV1;1
+EHV Sgen 78;EHV Bus 455;wind onshore;WP5;pq;27.2;0;27.2;EHV1;1
+EHV Sgen 79;EHV Bus 101;wind onshore;WP6;pq;15.4;0;15.4;EHV1;1
+EHV Sgen 80;EHV Bus 61;wind onshore;WP6;pq;14;0;14;EHV1;1
+EHV Sgen 81;EHV Bus 455;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 82;EHV Bus 407;wind onshore;WP9;pq;25.8;0;25.8;EHV1;1
+EHV Sgen 83;EHV Bus 221;wind onshore;WP6;pq;48;0;48;EHV1;1
+EHV Sgen 84;EHV Bus 161;wind onshore;WP11;pq;23;0;23;EHV1;1
+EHV Sgen 85;EHV Bus 369;wind onshore;WP9;pq;89.5;0;89.5;EHV1;1
+EHV Sgen 86;EHV Bus 103;wind onshore;WP6;pq;40;0;40;EHV1;1
+EHV Sgen 87;EHV Bus 1905;wind onshore;WP7;pq;119.6;0;119.6;EHV1;1
+EHV Sgen 88;EHV Bus 99;wind onshore;WP6;pq;20;0;20;EHV1;1
+EHV Sgen 89;EHV Bus 99;wind onshore;WP6;pq;20;0;20;EHV1;1
+EHV Sgen 90;EHV Bus 57;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 91;EHV Bus 1817;wind onshore;WP5;pq;12;0;12;EHV1;1
+EHV Sgen 92;EHV Bus 57;wind onshore;WP10;pq;20;0;20;EHV1;1
+EHV Sgen 93;EHV Bus 67;wind onshore;WP5;pq;16.9;0;16.9;EHV1;1
+EHV Sgen 94;EHV Bus 67;wind onshore;WP5;pq;20;0;20;EHV1;1
+EHV Sgen 95;EHV Bus 67;wind onshore;WP5;pq;20;0;20;EHV1;1
+EHV Sgen 96;EHV Bus 67;wind onshore;WP5;pq;10;0;10;EHV1;1
+EHV Sgen 97;EHV Bus 299;wind onshore;WP9;pq;26.1;0;26.1;EHV1;1
+EHV Sgen 98;EHV Bus 15;wind onshore;WP6;pq;27;0;27;EHV1;1
+EHV Sgen 99;EHV Bus 15;wind onshore;WP6;pq;10;0;10;EHV1;1
+EHV Sgen 100;EHV Bus 251;wind onshore;WP11;pq;11.8;0;11.8;EHV1;1
+EHV Sgen 101;EHV Bus 1763;wind onshore;WP11;pq;15;0;15;EHV1;1
+EHV Sgen 102;EHV Bus 363;wind onshore;WP6;pq;20.3;0;20.3;EHV1;1
+EHV Sgen 103;EHV Bus 512;wind onshore;WP11;pq;14.4;0;14.4;EHV1;1
+EHV Sgen 104;EHV Bus 53;wind onshore;WP10;pq;12;0;12;EHV1;1
+EHV Sgen 105;EHV Bus 1815;wind onshore;WP6;pq;26.4;0;26.4;EHV1;1
+EHV Sgen 106;EHV Bus 1487;wind onshore;WP10;pq;12;0;12;EHV1;1
+EHV Sgen 107;EHV Bus 1739;wind onshore;WP9;pq;58.1;0;58.1;EHV1;1
+EHV Sgen 108;EHV Bus 1739;wind onshore;WP9;pq;15;0;15;EHV1;1
+EHV Sgen 109;EHV Bus 99;wind onshore;WP6;pq;62;0;62;EHV1;1
+EHV Sgen 110;EHV Bus 115;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 111;EHV Bus 1741;wind onshore;WP9;pq;10;0;10;EHV1;1
+EHV Sgen 112;EHV Bus 53;wind onshore;WP10;pq;16.5;0;16.5;EHV1;1
+EHV Sgen 113;EHV Bus 57;wind onshore;WP10;pq;27;0;27;EHV1;1
+EHV Sgen 114;EHV Bus 57;wind onshore;WP10;pq;42;0;42;EHV1;1
+EHV Sgen 115;EHV Bus 101;wind onshore;WP6;pq;76.5;0;76.5;EHV1;1
+EHV Sgen 116;EHV Bus 303;wind onshore;WP11;pq;22.4;0;22.4;EHV1;1
+EHV Sgen 117;EHV Bus 1715;wind onshore;WP11;pq;11.5;0;11.5;EHV1;1
+EHV Sgen 118;EHV Bus 101;wind onshore;WP6;pq;4;0;4;EHV1;1
+EHV Sgen 119;EHV Bus 101;wind onshore;WP6;pq;9.9;0;9.9;EHV1;1
+EHV Sgen 120;EHV Bus 509;wind onshore;WP6;pq;23;0;23;EHV1;1
+EHV Sgen 121;EHV Bus 375;wind onshore;WP6;pq;18.4;0;18.4;EHV1;1
+EHV Sgen 122;EHV Bus 49;wind onshore;WP10;pq;68;0;68;EHV1;1
+EHV Sgen 123;EHV Bus 39;wind onshore;WP8;pq;12.6;0;12.6;EHV1;1
+EHV Sgen 124;EHV Bus 39;wind onshore;WP8;pq;16.2;0;16.2;EHV1;1
+EHV Sgen 125;EHV Bus 1817;wind onshore;WP5;pq;41.1;0;41.1;EHV1;1
+EHV Sgen 126;EHV Bus 117;wind onshore;WP11;pq;29.5;0;29.5;EHV1;1
+EHV Sgen 127;EHV Bus 53;wind onshore;WP10;pq;13.8;0;13.8;EHV1;1
+EHV Sgen 128;EHV Bus 53;wind onshore;WP10;pq;13.8;0;13.8;EHV1;1
+EHV Sgen 129;EHV Bus 53;wind onshore;WP10;pq;13.8;0;13.8;EHV1;1
+EHV Sgen 130;EHV Bus 357;wind onshore;WP6;pq;40.5;0;40.5;EHV1;1
+EHV Sgen 131;EHV Bus 1639;wind onshore;WP3;pq;64.6;0;64.6;EHV1;1
+EHV Sgen 132;EHV Bus 101;wind onshore;WP6;pq;40;0;40;EHV1;1
+EHV Sgen 133;EHV Bus 53;wind onshore;WP10;pq;32;0;32;EHV1;1
+EHV Sgen 134;EHV Bus 99;wind onshore;WP6;pq;18.4;0;18.4;EHV1;1
+EHV Sgen 135;EHV Bus 1487;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 136;EHV Bus 13;wind onshore;WP10;pq;16;0;16;EHV1;1
+EHV Sgen 137;EHV Bus 99;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 138;EHV Bus 1687;wind onshore;WP11;pq;20;0;20;EHV1;1
+EHV Sgen 139;EHV Bus 125;wind onshore;WP11;pq;29.2;0;29.2;EHV1;1
+EHV Sgen 140;EHV Bus 1753;wind onshore;WP10;pq;75;0;75;EHV1;1
+EHV Sgen 141;EHV Bus 141;wind onshore;WP10;pq;21.6;0;21.6;EHV1;1
+EHV Sgen 142;EHV Bus 1637;wind onshore;WP6;pq;22.5;0;22.5;EHV1;1
+EHV Sgen 143;EHV Bus 57;wind onshore;WP10;pq;19.8;0;19.8;EHV1;1
+EHV Sgen 144;EHV Bus 57;wind onshore;WP10;pq;24;0;24;EHV1;1
+EHV Sgen 145;EHV Bus 57;wind onshore;WP10;pq;24;0;24;EHV1;1
+EHV Sgen 146;EHV Bus 15;wind onshore;WP6;pq;18;0;18;EHV1;1
+EHV Sgen 147;EHV Bus 95;wind onshore;WP6;pq;52.9;0;52.9;EHV1;1
+EHV Sgen 148;EHV Bus 53;wind onshore;WP10;pq;22;0;22;EHV1;1
+EHV Sgen 149;EHV Bus 15;wind onshore;WP6;pq;30;0;30;EHV1;1
+EHV Sgen 150;EHV Bus 369;wind onshore;WP9;pq;99.9;0;99.9;EHV1;1
+EHV Sgen 151;EHV Bus 115;wind onshore;WP6;pq;21;0;21;EHV1;1
+EHV Sgen 152;EHV Bus 115;wind onshore;WP6;pq;15;0;15;EHV1;1
+EHV Sgen 153;EHV Bus 101;wind onshore;WP6;pq;26;0;26;EHV1;1
+EHV Sgen 154;EHV Bus 49;wind onshore;WP6;pq;16;0;16;EHV1;1
+EHV Sgen 155;EHV Bus 53;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 156;EHV Bus 53;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 157;EHV Bus 53;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 158;EHV Bus 53;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 159;EHV Bus 53;wind onshore;WP10;pq;10;0;10;EHV1;1
+EHV Sgen 160;EHV Bus 97;wind onshore;WP6;pq;28;0;28;EHV1;1
+EHV Sgen 161;EHV Bus 1487;wind onshore;WP6;pq;36.8;0;36.8;EHV1;1
+EHV Sgen 162;EHV Bus 99;wind onshore;WP6;pq;27.2;0;27.2;EHV1;1
+EHV Sgen 163;EHV Bus 1637;wind onshore;WP6;pq;13.5;0;13.5;EHV1;1
+EHV Sgen 164;EHV Bus 1435;wind onshore;WP8;pq;16.2;0;16.2;EHV1;1
+EHV Sgen 165;EHV Bus 1435;wind onshore;WP8;pq;26.1;0;26.1;EHV1;1
+EHV Sgen 166;EHV Bus 97;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 167;EHV Bus 115;wind onshore;WP6;pq;24;0;24;EHV1;1
+EHV Sgen 168;EHV Bus 1649;wind onshore;WP4;pq;13.5;0;13.5;EHV1;1
+EHV Sgen 169;EHV Bus 509;wind onshore;WP6;pq;11.5;0;11.5;EHV1;1
+EHV Sgen 170;EHV Bus 127;wind onshore;WP9;pq;16;0;16;EHV1;1
+EHV Sgen 171;EHV Bus 221;wind onshore;WP6;pq;12;0;12;EHV1;1
+EHV Sgen 172;EHV Bus 115;wind onshore;WP6;pq;41.7;0;41.7;EHV1;1
+EHV Sgen 173;EHV Bus 221;wind onshore;WP6;pq;328;0;328;EHV1;1
+EHV Sgen 174;EHV Bus 93;wind onshore;WP11;pq;11.5;0;11.5;EHV1;1
+EHV Sgen 175;EHV Bus 493;wind onshore;WP6;pq;10;0;10;EHV1;1
+EHV Sgen 176;EHV Bus 111;wind onshore;WP6;pq;10;0;10;EHV1;1
+EHV Sgen 177;EHV Bus 141;wind onshore;WP10;pq;13.8;0;13.8;EHV1;1
+EHV Sgen 178;EHV Bus 1649;wind onshore;WP4;pq;35;0;35;EHV1;1
+EHV Sgen 179;EHV Bus 1487;wind onshore;WP6;pq;26;0;26;EHV1;1
+EHV Sgen 180;EHV Bus 1637;wind onshore;WP6;pq;57;0;57;EHV1;1
+EHV Sgen 181;EHV Bus 299;pv;PV1;pq;22.8;0;22.8;EHV1;1
+EHV Sgen 182;EHV Bus 101;pv;PV8;pq;21.6;0;21.6;EHV1;1
+EHV Sgen 183;EHV Bus 101;pv;PV8;pq;20.4;0;20.4;EHV1;1
+EHV Sgen 184;EHV Bus 101;pv;PV8;pq;12.7;0;12.7;EHV1;1
+EHV Sgen 185;EHV Bus 101;pv;PV8;pq;15.4;0;15.4;EHV1;1
+EHV Sgen 186;EHV Bus 101;pv;PV8;pq;16.1;0;16.1;EHV1;1
+EHV Sgen 187;EHV Bus 101;pv;PV8;pq;17.3;0;17.3;EHV1;1
+EHV Sgen 188;EHV Bus 377;pv;PV4;pq;21.7;0;21.7;EHV1;1
+EHV Sgen 189;EHV Bus 1637;pv;PV2;pq;19.7;0;19.7;EHV1;1
+EHV Sgen 190;EHV Bus 221;pv;PV2;pq;15.7;0;15.7;EHV1;1
+EHV Sgen 191;EHV Bus 103;pv;PV4;pq;28.3;0;28.3;EHV1;1
+EHV Sgen 192;EHV Bus 101;pv;PV8;pq;17.9;0;17.9;EHV1;1
+EHV Sgen 193;EHV Bus 101;pv;PV8;pq;17.4;0;17.4;EHV1;1
+EHV Sgen 194;EHV Bus 101;pv;PV8;pq;23;0;23;EHV1;1
+EHV Sgen 195;EHV Bus 367;pv;PV4;pq;54.3;0;54.3;EHV1;1
+EHV Sgen 196;EHV Bus 115;pv;PV8;pq;34.8;0;34.8;EHV1;1
+EHV Sgen 197;EHV Bus 115;pv;PV8;pq;18;0;18;EHV1;1
+EHV Sgen 198;EHV Bus 55;pv;PV2;pq;6.8;0;6.8;EHV1;1
+EHV Sgen 199;EHV Bus 55;pv;PV2;pq;19.3;0;19.3;EHV1;1
+EHV Sgen 200;EHV Bus 55;pv;PV2;pq;25.5;0;25.5;EHV1;1
+EHV Sgen 201;EHV Bus 111;pv;PV8;pq;18.6;0;18.6;EHV1;1
+EHV Sgen 202;EHV Bus 259;wind offshore;WP2;pq;344.5;0;344.5;EHV1;1
+EHV Sgen 203;EHV Bus 259;wind offshore;WP2;pq;263.1;0;263.1;EHV1;1
+EHV Sgen 204;EHV Bus 31;wind offshore;WP2;pq;295.2;0;295.2;EHV1;1
+EHV Sgen 205;EHV Bus 1739;wind offshore;WP2;pq;60;0;60;EHV1;1
+EHV Sgen 206;EHV Bus 1739;wind offshore;WP2;pq;113.4;0;113.4;EHV1;1
+EHV Sgen 207;EHV Bus 259;wind offshore;WP2;pq;312;0;312;EHV1;1
+EHV Sgen 208;EHV Bus 259;wind offshore;WP2;pq;400;0;400;EHV1;1
+EHV Sgen 209;EHV Bus 259;wind offshore;WP2;pq;200;0;200;EHV1;1
+EHV Sgen 210;EHV Bus 1461;wind offshore;WP2;pq;302.4;0;302.4;EHV1;1
+EHV Sgen 211;EHV Bus 259;wind offshore;WP2;pq;400;0;400;EHV1;1
+EHV Sgen 212;EHV Bus 1461;wind offshore;WP2;pq;288;0;288;EHV1;1
+EHV Sgen 213;EHV Bus 31;wind offshore;WP2;pq;288;0;288;EHV1;1
+EHV Sgen 214;EHV Bus 31;wind offshore;WP2;pq;288;0;288;EHV1;1
+EHV Sgen 215;EHV Bus 31;wind offshore;WP2;pq;240;0;240;EHV1;1
+EHV Sgen 216;EHV Bus 1677;wind offshore;WP1;pq;48.3;0;48.3;EHV1;1
+EHV Sgen 217;EHV Bus 1677;wind offshore;WP1;pq;288;0;288;EHV1;1
+EHV Sgen 218;EHV Bus 1481;wind offshore;WP2;pq;111;0;111;EHV1;1
+EHV Sgen 219;EHV Bus 259;wind offshore;WP2;pq;332;0;332;EHV1;1
+EHV Sgen 220;EHV Bus 259;wind offshore;WP2;pq;402;0;402;EHV1;1
+EHV Sgen 221;EHV Bus 1455;wind offshore;WP1;pq;350;0;350;EHV1;1
+EHV Sgen 226;EHV Bus 1789;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 227;EHV Bus 1513;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 228;EHV Bus 1771;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 229;EHV Bus 1543;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 230;EHV Bus 1483;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 231;EHV Bus 1675;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 232;EHV Bus 1823;Wind_Offshore;WP1;pq;0;0;0;EHV1;1
+EHV Sgen 233;EHV Bus 1755;Wind_Offshore;WP1;pq;0;0;0;EHV1;1
+EHV Sgen 234;EHV Bus 1439;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 235;EHV Bus 1543;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 236;EHV Bus 1931;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 237;EHV Bus 1441;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 238;EHV Bus 1437;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 239;EHV Bus 3072;Wind_Offshore;WP2;pq;0;0;0;EHV1;1
+EHV Sgen 240;EHV Bus 1823;Wind_Offshore;WP1;pq;0;0;0;EHV1;1
+EHV Sgen 241;EHV Bus 1849;Wind_Offshore;WP1;pq;0;0;0;EHV1;1
+HV1 Sgen 1;HV1 Bus 23;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 2;HV1 Bus 45;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 3;HV1 Bus 111;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 4;HV1 Bus 117;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 5;HV1 Bus 119;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 6;HV1 Bus 121;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 7;HV1 Bus 3;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 8;HV1 Bus 5;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 9;HV1 Bus 7;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 10;HV1 Bus 9;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 11;HV1 Bus 11;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 12;HV1 Bus 21;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 13;HV1 Bus 31;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 14;HV1 Bus 33;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 15;HV1 Bus 35;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 16;HV1 Bus 39;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 17;HV1 Bus 51;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 18;HV1 Bus 53;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 19;HV1 Bus 59;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 20;HV1 Bus 61;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 21;HV1 Bus 63;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 22;HV1 Bus 73;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 23;HV1 Bus 77;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 24;HV1 Bus 79;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 25;HV1 Bus 81;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 26;HV1 Bus 83;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 27;HV1 Bus 87;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 28;HV1 Bus 91;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 29;HV1 Bus 95;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 30;HV1 Bus 97;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 31;HV1 Bus 99;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 32;HV1 Bus 103;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 33;HV1 Bus 105;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 34;HV1 Bus 107;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 35;HV1 Bus 109;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 36;HV1 Bus 113;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 37;HV1 Bus 115;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 38;HV1 Bus 1;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 39;HV1 Bus 15;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 40;HV1 Bus 27;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 41;HV1 Bus 37;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 42;HV1 Bus 43;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 43;HV1 Bus 57;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 44;HV1 Bus 67;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 45;HV1 Bus 71;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 46;HV1 Bus 85;mv_add1;mv_add1;pq;0;0;0;HV1;3
+HV1 Sgen 47;HV1 Bus 13;mv_comm;mv_comm;pq;35.1291;0;35.1291;HV1_MV4_eq;3
+HV1 Sgen 48;HV1 Bus 17;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 49;HV1 Bus 29;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 50;HV1 Bus 41;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 51;HV1 Bus 49;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 52;HV1 Bus 65;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 53;HV1 Bus 69;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 54;HV1 Bus 75;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 55;HV1 Bus 101;mv_rural;mv_rural;pq;47.0278;0;47.0278;HV1_MV1_eq;3
+HV1 Sgen 56;HV1 Bus 19;mv_semiurb;mv_semiurb;pq;62.2728;0;62.2728;HV1_MV2_eq;3
+HV1 Sgen 57;HV1 Bus 89;mv_semiurb;mv_semiurb;pq;62.2728;0;62.2728;HV1_MV2_eq;3
+HV1 Sgen 58;HV1 Bus 93;mv_semiurb;mv_semiurb;pq;62.2728;0;62.2728;HV1_MV2_eq;3
+HV1 Sgen 59;HV1 Bus 25;mv_urban;mv_urban;pq;27.1165;0;27.1165;HV1_MV3_eq;3
+HV1 Sgen 60;HV1 Bus 47;mv_urban;mv_urban;pq;27.1165;0;27.1165;HV1_MV3_eq;3
+HV1 Sgen 61;HV1 Bus 55;mv_urban;mv_urban;pq;27.1165;0;27.1165;HV1_MV3_eq;3
+HV1 Sgen 62;HV1 Bus 119;Wind;WP10;pq;23.01;0;23.01;HV1;3
+HV1 Sgen 63;HV1 Bus 13;Wind;WP10;pq;39.77;0;39.77;HV1;3
+HV1 Sgen 64;HV1 Bus 15;Wind;WP10;pq;149.06;0;149.06;HV1;3
+HV1 Sgen 65;HV1 Bus 19;Wind;WP10;pq;135.05;0;135.05;HV1;3
+HV1 Sgen 66;HV1 Bus 21;Wind;WP10;pq;86.28;0;86.28;HV1;3
+HV1 Sgen 67;HV1 Bus 33;Wind;WP10;pq;126.15;0;126.15;HV1;3
+HV1 Sgen 68;HV1 Bus 41;Wind;WP10;pq;16.34;0;16.34;HV1;3
+HV1 Sgen 69;HV1 Bus 43;Wind;WP10;pq;6.56;0;6.56;HV1;3
+HV1 Sgen 70;HV1 Bus 49;Wind;WP10;pq;47.51;0;47.51;HV1;3
+HV1 Sgen 71;HV1 Bus 51;Wind;WP10;pq;7.87;0;7.87;HV1;3
+HV1 Sgen 72;HV1 Bus 77;Wind;WP10;pq;5.06;0;5.06;HV1;3
+HV1 Sgen 73;HV1 Bus 83;Wind;WP10;pq;37.37;0;37.37;HV1;3
+HV1 Sgen 74;HV1 Bus 107;Wind;WP10;pq;11.17;0;11.17;HV1;3
+HV1 Sgen 75;HV1 Bus 121;Wind;WP4;pq;13.47;0;13.47;HV1;3
+HV1 Sgen 76;HV1 Bus 7;Wind;WP4;pq;5.68;0;5.68;HV1;3
+HV1 Sgen 77;HV1 Bus 9;Wind;WP4;pq;50.78;0;50.78;HV1;3
+HV1 Sgen 78;HV1 Bus 11;Wind;WP4;pq;9.54;0;9.54;HV1;3
+HV1 Sgen 79;HV1 Bus 29;Wind;WP4;pq;13.06;0;13.06;HV1;3
+HV1 Sgen 80;HV1 Bus 31;Wind;WP4;pq;45.16;0;45.16;HV1;3
+HV1 Sgen 81;HV1 Bus 65;Wind;WP4;pq;62.99;0;62.99;HV1;3
+HV1 Sgen 82;HV1 Bus 69;Wind;WP4;pq;23.98;0;23.98;HV1;3
+HV1 Sgen 83;HV1 Bus 73;Wind;WP4;pq;39.99;0;39.99;HV1;3
+HV1 Sgen 84;HV1 Bus 79;Wind;WP4;pq;5.75;0;5.75;HV1;3
+HV1 Sgen 85;HV1 Bus 81;Wind;WP4;pq;18.3;0;18.3;HV1;3
+HV1 Sgen 86;HV1 Bus 85;Wind;WP4;pq;52.65;0;52.65;HV1;3
+HV1 Sgen 87;HV1 Bus 103;Wind;WP4;pq;18.96;0;18.96;HV1;3
+HV1 Sgen 88;HV1 Bus 105;Wind;WP4;pq;84.01;0;84.01;HV1;3
+HV1 Sgen 89;HV1 Bus 109;Wind;WP4;pq;8.41;0;8.41;HV1;3
+HV1 Sgen 90;HV1 Bus 117;Wind;WP7;pq;12.01;0;12.01;HV1;3
+HV1 Sgen 91;HV1 Bus 17;Wind;WP7;pq;6.04;0;6.04;HV1;3
+HV1 Sgen 92;HV1 Bus 27;Wind;WP7;pq;16.2;0;16.2;HV1;3
+HV1 Sgen 93;HV1 Bus 53;Wind;WP7;pq;17.16;0;17.16;HV1;3
+HV1 Sgen 94;HV1 Bus 55;Wind;WP7;pq;35.68;0;35.68;HV1;3
+HV1 Sgen 95;HV1 Bus 57;Wind;WP7;pq;18.28;0;18.28;HV1;3
+HV1 Sgen 96;HV1 Bus 71;Wind;WP7;pq;18.18;0;18.18;HV1;3
+HV1 Sgen 97;HV1 Bus 75;Wind;WP7;pq;5.69;0;5.69;HV1;3
+HV1 Sgen 98;HV1 Bus 87;Wind;WP7;pq;6.33;0;6.33;HV1;3
+HV1 Sgen 99;HV1 Bus 91;Wind;WP7;pq;6.45;0;6.45;HV1;3
+HV1 Sgen 100;HV1 Bus 99;Wind;WP7;pq;15.13;0;15.13;HV1;3
+HV1 Sgen 101;HV1 Bus 101;Wind;WP7;pq;12.8;0;12.8;HV1;3
+HV1 Sgen 102;HV1 Bus 113;Wind;WP7;pq;6.37;0;6.37;HV1;3
+HV1 Sgen 103;HV1 Bus 115;Wind;WP7;pq;16.99;0;16.99;HV1;3
+HV1 Sgen 104;HV1 Bus 319;Wind;WP10;pq;40;0;40;HV1;3
+HV1 Sgen 105;HV1 Bus 320;Wind;WP7;pq;30;0;30;HV1;3
+HV1 Sgen 106;HV1 Bus 321;Wind;WP7;pq;45.8;0;45.8;HV1;3
+HV1 Sgen 107;HV1 Bus 322;Wind;WP7;pq;31;0;31;HV1;3
+HV1 Sgen 108;HV1 Bus 323;Wind;WP4;pq;68.8;0;68.8;HV1;3
+HV1 Sgen 109;HV1 Bus 324;Wind;WP7;pq;22.2;0;22.2;HV1;3
+HV1 Sgen 110;HV1 Bus 326;Wind;WP10;pq;30;0;30;HV1;3
+HV1 Sgen 111;HV1 Bus 327;Wind;WP4;pq;75;0;75;HV1;3
+HV1 Sgen 112;HV1 Bus 328;Wind;WP4;pq;22;0;22;HV1;3
+HV1 Sgen 113;HV1 Bus 329;Wind;WP7;pq;16.5;0;16.5;HV1;3
+HV1 Sgen 114;HV1 Bus 330;Wind;WP4;pq;18;0;18;HV1;3
+HV1 Sgen 115;HV1 Bus 331;Wind;WP4;pq;13.8;0;13.8;HV1;3
+HV1 Sgen 116;HV1 Bus 333;Wind;WP10;pq;52.8;0;52.8;HV1;3
+HV1 Sgen 117;HV1 Bus 335;Wind;WP7;pq;24;0;24;HV1;3
+HV1 Sgen 118;HV1 Bus 337;Wind;WP4;pq;16.1;0;16.1;HV1;3
+HV1 Sgen 119;HV1 Bus 338;Wind;WP4;pq;14;0;14;HV1;3
+HV1 Sgen 120;HV1 Bus 339;Wind;WP10;pq;16.9;0;16.9;HV1;3
+HV1 Sgen 121;HV1 Bus 340;Wind;WP4;pq;12;0;12;HV1;3
+HV1 Sgen 122;HV1 Bus 342;Wind;WP4;pq;10;0;10;HV1;3
+HV1 Sgen 123;HV1 Bus 343;Wind;WP7;pq;20;0;20;HV1;3
+HV1 Sgen 124;HV1 Bus 344;Wind;WP7;pq;16.1;0;16.1;HV1;3
+HV2 Sgen 1;HV2 Bus 1;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 2;HV2 Bus 7;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 3;HV2 Bus 38;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 4;HV2 Bus 43;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 5;HV2 Bus 46;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 6;HV2 Bus 53;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 7;HV2 Bus 75;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 8;HV2 Bus 27;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 9;HV2 Bus 49;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 10;HV2 Bus 93;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 11;HV2 Bus 98;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 12;HV2 Bus 102;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 13;HV2 Bus 65;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 14;HV2 Bus 71;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 15;HV2 Bus 78;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 16;HV2 Bus 105;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 17;HV2 Bus 122;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 18;HV2 Bus 125;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 19;HV2 Bus 108;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 20;HV2 Bus 133;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 21;HV2 Bus 152;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 22;HV2 Bus 149;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 23;HV2 Bus 168;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 24;HV2 Bus 199;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 25;HV2 Bus 212;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 26;HV2 Bus 172;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 27;HV2 Bus 175;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 28;HV2 Bus 187;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 29;HV2 Bus 221;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 30;HV2 Bus 226;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 31;HV2 Bus 246;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 32;HV2 Bus 206;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 33;HV2 Bus 280;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 34;HV2 Bus 216;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 35;HV2 Bus 229;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 36;HV2 Bus 286;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 37;HV2 Bus 243;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 38;HV2 Bus 306;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 39;HV2 Bus 257;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 40;HV2 Bus 322;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 41;HV2 Bus 329;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 42;HV2 Bus 260;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 43;HV2 Bus 265;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 44;HV2 Bus 339;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 45;HV2 Bus 274;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 46;HV2 Bus 296;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 47;HV2 Bus 318;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 48;HV2 Bus 354;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 49;HV2 Bus 357;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 50;HV2 Bus 33;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 51;HV2 Bus 61;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 52;HV2 Bus 130;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 53;HV2 Bus 336;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 54;HV2 Bus 349;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 55;HV2 Bus 182;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 56;HV2 Bus 254;PV;mv_add1;pq;0;0;0;HV2;3
+HV2 Sgen 57;HV2 Bus 23;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 58;HV2 Bus 90;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 59;HV2 Bus 119;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 60;HV2 Bus 137;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 61;HV2 Bus 141;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 62;HV2 Bus 155;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 63;HV2 Bus 192;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 64;HV2 Bus 270;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 65;HV2 Bus 313;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 66;HV2 Bus 361;PV;mv_add2;pq;27.6386;0;27.6386;HV2;3
+HV2 Sgen 67;HV2 Bus 161;PV;mv_comm;pq;35.1291;0;35.1291;HV2_MV4_eq;3
+HV2 Sgen 68;HV2 Bus 163;PV;mv_comm;pq;35.1291;0;35.1291;HV2_MV4_eq;3
+HV2 Sgen 69;HV2 Bus 278;PV;mv_comm;pq;35.1291;0;35.1291;HV2_MV4_eq;3
+HV2 Sgen 70;HV2 Bus 59;PV;mv_rural;pq;47.0278;0;47.0278;HV2_MV1_eq;3
+HV2 Sgen 71;HV2 Bus 96;PV;mv_rural;pq;47.0278;0;47.0278;HV2_MV1_eq;3
+HV2 Sgen 72;HV2 Bus 204;PV;mv_rural;pq;47.0278;0;47.0278;HV2_MV1_eq;3
+HV2 Sgen 73;HV2 Bus 304;PV;mv_rural;pq;47.0278;0;47.0278;HV2_MV1_eq;3
+HV2 Sgen 74;HV2 Bus 347;PV;mv_rural;pq;47.0278;0;47.0278;HV2_MV1_eq;3
+HV2 Sgen 75;HV2 Bus 86;PV;mv_semiurb;pq;62.2728;0;62.2728;HV2_MV2_eq;3
+HV2 Sgen 76;HV2 Bus 310;PV;mv_semiurb;pq;62.2728;0;62.2728;HV2_MV2_eq;3
+HV2 Sgen 77;HV2 Bus 290;PV;mv_semiurb;pq;62.2728;0;62.2728;HV2_MV2_eq;3
+HV2 Sgen 78;HV2 Bus 83;PV;mv_urban;pq;27.1165;0;27.1165;HV2_MV3_eq;3
+HV2 Sgen 79;HV2 Bus 195;PV;mv_urban;pq;27.1165;0;27.1165;HV2_MV3_eq;3
+HV2 Sgen 80;HV2 Bus 61;Wind;WP11;pq;13.07;0;13.07;HV2;3
+HV2 Sgen 81;HV2 Bus 96;Wind;WP11;pq;38.28;0;38.28;HV2;3
+HV2 Sgen 82;HV2 Bus 98;Wind;WP11;pq;40.07;0;40.07;HV2;3
+HV2 Sgen 83;HV2 Bus 192;Wind;WP11;pq;11.57;0;11.57;HV2;3
+HV2 Sgen 84;HV2 Bus 212;Wind;WP11;pq;30.85;0;30.85;HV2;3
+HV2 Sgen 85;HV2 Bus 102;Wind;WP5;pq;23.55;0;23.55;HV2;3
+HV2 Sgen 86;HV2 Bus 33;Wind;WP5;pq;19.38;0;19.38;HV2;3
+HV2 Sgen 87;HV2 Bus 43;Wind;WP5;pq;10.79;0;10.79;HV2;3
+HV2 Sgen 88;HV2 Bus 49;Wind;WP5;pq;43.48;0;43.48;HV2;3
+HV2 Sgen 89;HV2 Bus 75;Wind;WP5;pq;8.72;0;8.72;HV2;3
+HV2 Sgen 90;HV2 Bus 165;Wind;WP5;pq;24;0;24;HV2;3
+HV2 Sgen 91;HV2 Bus 182;Wind;WP5;pq;11.74;0;11.74;HV2;3
+HV2 Sgen 92;HV2 Bus 221;Wind;WP5;pq;25.07;0;25.07;HV2;3
+HV2 Sgen 93;HV2 Bus 236;Wind;WP5;pq;23.5;0;23.5;HV2;3
+HV2 Sgen 94;HV2 Bus 278;Wind;WP5;pq;9.55;0;9.55;HV2;3
+HV2 Sgen 95;HV2 Bus 86;Wind;WP8;pq;46.22;0;46.22;HV2;3
+HV2 Sgen 96;HV2 Bus 243;Wind;WP8;pq;29.81;0;29.81;HV2;3
+HV2 Sgen 97;HV2 Bus 254;Wind;WP8;pq;33.48;0;33.48;HV2;3
+HV2 Sgen 98;HV2 Bus 336;Wind;WP8;pq;16.81;0;16.81;HV2;3
+HV2 Sgen 99;HV2 Bus 383;Wind;WP11;pq;16.5;0;16.5;HV2;3
+HV2 Sgen 100;HV2 Bus 384;Wind;WP5;pq;30;0;30;HV2;3
+HV2 Sgen 101;HV2 Bus 385;Wind;WP8;pq;85;0;85;HV2;3
+HV2 Sgen 102;HV2 Bus 386;Wind;WP11;pq;22.4;0;22.4;HV2;3
+HV2 Sgen 103;HV2 Bus 388;Wind;WP5;pq;66.6;0;66.6;HV2;3
+HV2 Sgen 104;HV2 Bus 389;Wind;WP8;pq;23;0;23;HV2;3
+HV2 Sgen 105;HV2 Bus 390;Wind;WP5;pq;30;0;30;HV2;3
+HV2 Sgen 106;HV2 Bus 391;Wind;WP5;pq;19.8;0;19.8;HV2;3
+HV2 Sgen 107;HV2 Bus 392;Wind;WP5;pq;25.4;0;25.4;HV2;3
+HV2 Sgen 108;HV2 Bus 393;Wind;WP5;pq;99.9;0;99.9;HV2;3
+HV2 Sgen 109;HV2 Bus 394;Wind;WP5;pq;13.5;0;13.5;HV2;3
+HV2 Sgen 110;HV2 Bus 395;Wind;WP5;pq;41.1;0;41.1;HV2;3
+HV2 Sgen 111;HV2 Bus 396;Wind;WP8;pq;16.1;0;16.1;HV2;3
+HV2 Sgen 112;HV2 Bus 397;Wind;WP5;pq;16.2;0;16.2;HV2;3
+HV2 Sgen 113;HV2 Bus 400;Wind;WP8;pq;65;0;65;HV2;3
+HV2 Sgen 114;HV2 Bus 401;Wind;WP5;pq;11.5;0;11.5;HV2;3
+HV2 Sgen 115;HV2 Bus 402;Wind;WP8;pq;25.3;0;25.3;HV2;3
+HV2 Sgen 116;HV2 Bus 403;Wind;WP8;pq;40.5;0;40.5;HV2;3
+HV2 Sgen 117;HV2 Bus 404;Wind;WP5;pq;14;0;14;HV2;3
+HV2 Sgen 118;HV2 Bus 405;Wind;WP8;pq;45.8;0;45.8;HV2;3

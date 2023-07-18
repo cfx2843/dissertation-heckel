@@ -1,0 +1,9 @@
+Components
+IES_EBoiler_lfail_ideal
+IES_EBoiler_lfail_real
+IES_Coupled_HeatpumpCharline_lfail_Ideal
+IES_Coupled_HeatpumpCharline_lfail_Real
+IES_Electrolyzer_lfail_ideal
+IES_Compressor_lfail_ideal
+IES_Compressor_lfail_real
+Comparison_KarlssonHill

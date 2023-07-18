@@ -1,0 +1,3 @@
+within Phdbook.Kapitel8.Praequalifikation.Langzeitsimulation;
+package Referenzszenario_SRL
+end Referenzszenario_SRL;

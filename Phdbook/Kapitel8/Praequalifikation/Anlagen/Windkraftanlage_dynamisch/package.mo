@@ -1,0 +1,3 @@
+within Phdbook.Kapitel8.Praequalifikation.Anlagen;
+package Windkraftanlage_dynamisch
+end Windkraftanlage_dynamisch;

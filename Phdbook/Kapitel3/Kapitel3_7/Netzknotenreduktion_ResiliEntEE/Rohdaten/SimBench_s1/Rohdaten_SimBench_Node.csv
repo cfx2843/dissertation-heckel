@@ -1,0 +1,762 @@
+id;type;vmSetp;vaSetp;vmR;vmMin;vmMax;substation;coordID;subnet;voltLvl
+EHV Bus 1;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_107;EHV1;1
+EHV Bus 3;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_0;EHV1;1
+EHV Bus 5;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_1;EHV1;1
+EHV Bus 7;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_108;EHV1;1
+EHV Bus 9;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_109;EHV1;1
+EHV Bus 11;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_110;EHV1;1
+EHV Bus 13;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_2;EHV1;1
+EHV Bus 15;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_3;EHV1;1
+EHV Bus 17;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_4;EHV1;1
+EHV Bus 19;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_5;EHV1;1
+EHV Bus 21;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_111;EHV1;1
+EHV Bus 23;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_112;EHV1;1
+EHV Bus 25;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_6;EHV1;1
+EHV Bus 27;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_7;EHV1;1
+EHV Bus 29;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_113;EHV1;1
+EHV Bus 31;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_8;EHV1;1
+EHV Bus 33;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_114;EHV1;1
+EHV Bus 35;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_9;EHV1;1
+EHV Bus 37;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_115;EHV1;1
+EHV Bus 39;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_10;EHV1;1
+EHV Bus 41;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_116;EHV1;1
+EHV Bus 43;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_11;EHV1;1
+EHV Bus 45;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_117;EHV1;1
+EHV Bus 47;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_12;EHV1;1
+EHV Bus 49;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_13;EHV1;1
+EHV Bus 51;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_118;EHV1;1
+EHV Bus 53;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_119;EHV1;1
+EHV Bus 55;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_120;EHV1;1
+EHV Bus 57;double busbar;NULL;NULL;380;0.9;1.1;EHV_HV_substation_1;coord_121;EHV1_HV1;1
+EHV Bus 59;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_14;EHV1;1
+EHV Bus 61;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_15;EHV1;1
+EHV Bus 63;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_16;EHV1;1
+EHV Bus 65;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_122;EHV1;1
+EHV Bus 67;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_123;EHV1;1
+EHV Bus 69;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_124;EHV1;1
+EHV Bus 71;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_17;EHV1;1
+EHV Bus 73;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_18;EHV1;1
+EHV Bus 75;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_19;EHV1;1
+EHV Bus 77;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_125;EHV1;1
+EHV Bus 79;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_20;EHV1;1
+EHV Bus 81;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_126;EHV1;1
+EHV Bus 83;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_21;EHV1;1
+EHV Bus 85;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_127;EHV1;1
+EHV Bus 87;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_128;EHV1;1
+EHV Bus 89;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_22;EHV1;1
+EHV Bus 91;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_23;EHV1;1
+EHV Bus 93;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_129;EHV1;1
+EHV Bus 95;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_130;EHV1;1
+EHV Bus 97;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_131;EHV1;1
+EHV Bus 99;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_132;EHV1;1
+EHV Bus 101;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_133;EHV1;1
+EHV Bus 103;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_134;EHV1;1
+EHV Bus 105;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_135;EHV1;1
+EHV Bus 107;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_136;EHV1;1
+EHV Bus 109;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_24;EHV1;1
+EHV Bus 111;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_137;EHV1;1
+EHV Bus 113;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_138;EHV1;1
+EHV Bus 115;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_139;EHV1;1
+EHV Bus 117;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_25;EHV1;1
+EHV Bus 119;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_26;EHV1;1
+EHV Bus 121;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_27;EHV1;1
+EHV Bus 123;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_140;EHV1;1
+EHV Bus 125;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_141;EHV1;1
+EHV Bus 127;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_142;EHV1;1
+EHV Bus 129;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_28;EHV1;1
+EHV Bus 131;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_29;EHV1;1
+EHV Bus 133;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_30;EHV1;1
+EHV Bus 135;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_143;EHV1;1
+EHV Bus 137;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_31;EHV1;1
+EHV Bus 139;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_32;EHV1;1
+EHV Bus 141;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_144;EHV1;1
+EHV Bus 143;double busbar;1.092;NULL;380;0.9;1.1;EHV_HV_substation_2;coord_145;EHV1_HV1;1
+EHV Bus 145;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_146;EHV1;1
+EHV Bus 147;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_33;EHV1;1
+EHV Bus 149;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_34;EHV1;1
+EHV Bus 151;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_35;EHV1;1
+EHV Bus 153;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_36;EHV1;1
+EHV Bus 155;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_147;EHV1;1
+EHV Bus 157;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_148;EHV1;1
+EHV Bus 159;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_149;EHV1;1
+EHV Bus 161;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_150;EHV1;1
+EHV Bus 163;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_151;EHV1;1
+EHV Bus 165;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_152;EHV1;1
+EHV Bus 167;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_153;EHV1;1
+EHV Bus 169;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_37;EHV1;1
+EHV Bus 171;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_154;EHV1;1
+EHV Bus 173;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_155;EHV1;1
+EHV Bus 175;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_38;EHV1;1
+EHV Bus 177;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_39;EHV1;1
+EHV Bus 179;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_40;EHV1;1
+EHV Bus 181;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_41;EHV1;1
+EHV Bus 183;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_156;EHV1;1
+EHV Bus 185;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_157;EHV1;1
+EHV Bus 187;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_158;EHV1;1
+EHV Bus 189;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_42;EHV1;1
+EHV Bus 191;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_159;EHV1;1
+EHV Bus 193;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_160;EHV1;1
+EHV Bus 195;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_161;EHV1;1
+EHV Bus 197;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_162;EHV1;1
+EHV Bus 199;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_43;EHV1;1
+EHV Bus 201;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_44;EHV1;1
+EHV Bus 203;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_45;EHV1;1
+EHV Bus 205;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_163;EHV1;1
+EHV Bus 207;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_46;EHV1;1
+EHV Bus 209;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_47;EHV1;1
+EHV Bus 211;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_164;EHV1;1
+EHV Bus 213;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_165;EHV1;1
+EHV Bus 215;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_48;EHV1;1
+EHV Bus 217;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_166;EHV1;1
+EHV Bus 219;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_167;EHV1;1
+EHV Bus 221;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_49;EHV1;1
+EHV Bus 223;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_50;EHV1;1
+EHV Bus 225;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_168;EHV1;1
+EHV Bus 227;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_51;EHV1;1
+EHV Bus 229;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_169;EHV1;1
+EHV Bus 231;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_170;EHV1;1
+EHV Bus 233;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_171;EHV1;1
+EHV Bus 235;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_172;EHV1;1
+EHV Bus 237;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_52;EHV1;1
+EHV Bus 239;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_173;EHV1;1
+EHV Bus 241;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_53;EHV1;1
+EHV Bus 243;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_174;EHV1;1
+EHV Bus 245;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_175;EHV1;1
+EHV Bus 247;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_176;EHV1;1
+EHV Bus 249;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_177;EHV1;1
+EHV Bus 251;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_178;EHV1;1
+EHV Bus 253;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_54;EHV1;1
+EHV Bus 255;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_179;EHV1;1
+EHV Bus 257;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_55;EHV1;1
+EHV Bus 259;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_180;EHV1;1
+EHV Bus 261;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_56;EHV1;1
+EHV Bus 263;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_181;EHV1;1
+EHV Bus 265;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_182;EHV1;1
+EHV Bus 267;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_57;EHV1;1
+EHV Bus 269;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_58;EHV1;1
+EHV Bus 271;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_59;EHV1;1
+EHV Bus 273;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_183;EHV1;1
+EHV Bus 275;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_184;EHV1;1
+EHV Bus 277;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_185;EHV1;1
+EHV Bus 279;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_186;EHV1;1
+EHV Bus 281;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_60;EHV1;1
+EHV Bus 283;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_61;EHV1;1
+EHV Bus 285;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_187;EHV1;1
+EHV Bus 287;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_188;EHV1;1
+EHV Bus 289;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_62;EHV1;1
+EHV Bus 291;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_189;EHV1;1
+EHV Bus 293;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_63;EHV1;1
+EHV Bus 295;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_64;EHV1;1
+EHV Bus 297;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_190;EHV1;1
+EHV Bus 299;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_65;EHV1;1
+EHV Bus 301;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_66;EHV1;1
+EHV Bus 303;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_191;EHV1;1
+EHV Bus 305;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_67;EHV1;1
+EHV Bus 307;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_192;EHV1;1
+EHV Bus 309;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_68;EHV1;1
+EHV Bus 311;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_69;EHV1;1
+EHV Bus 313;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_193;EHV1;1
+EHV Bus 315;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_194;EHV1;1
+EHV Bus 317;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_195;EHV1;1
+EHV Bus 319;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_196;EHV1;1
+EHV Bus 321;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_197;EHV1;1
+EHV Bus 323;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_70;EHV1;1
+EHV Bus 325;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_198;EHV1;1
+EHV Bus 327;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_199;EHV1;1
+EHV Bus 329;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_200;EHV1;1
+EHV Bus 331;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_71;EHV1;1
+EHV Bus 333;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_201;EHV1;1
+EHV Bus 335;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_202;EHV1;1
+EHV Bus 337;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_203;EHV1;1
+EHV Bus 339;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_72;EHV1;1
+EHV Bus 341;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_204;EHV1;1
+EHV Bus 343;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_73;EHV1;1
+EHV Bus 345;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_205;EHV1;1
+EHV Bus 347;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_74;EHV1;1
+EHV Bus 349;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_206;EHV1;1
+EHV Bus 351;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_207;EHV1;1
+EHV Bus 353;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_75;EHV1;1
+EHV Bus 355;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_208;EHV1;1
+EHV Bus 357;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_209;EHV1;1
+EHV Bus 359;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_76;EHV1;1
+EHV Bus 361;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_210;EHV1;1
+EHV Bus 363;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_211;EHV1;1
+EHV Bus 365;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_212;EHV1;1
+EHV Bus 367;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_77;EHV1;1
+EHV Bus 369;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_213;EHV1;1
+EHV Bus 371;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_214;EHV1;1
+EHV Bus 373;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_215;EHV1;1
+EHV Bus 375;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_78;EHV1;1
+EHV Bus 377;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_216;EHV1;1
+EHV Bus 379;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_79;EHV1;1
+EHV Bus 381;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_217;EHV1;1
+EHV Bus 383;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_218;EHV1;1
+EHV Bus 385;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_219;EHV1;1
+EHV Bus 387;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_220;EHV1;1
+EHV Bus 389;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_80;EHV1;1
+EHV Bus 391;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_81;EHV1;1
+EHV Bus 393;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_221;EHV1;1
+EHV Bus 395;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_82;EHV1;1
+EHV Bus 397;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_83;EHV1;1
+EHV Bus 399;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_84;EHV1;1
+EHV Bus 401;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_85;EHV1;1
+EHV Bus 403;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_222;EHV1;1
+EHV Bus 405;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_223;EHV1;1
+EHV Bus 407;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_224;EHV1;1
+EHV Bus 409;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_225;EHV1;1
+EHV Bus 411;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_226;EHV1;1
+EHV Bus 413;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_227;EHV1;1
+EHV Bus 415;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_228;EHV1;1
+EHV Bus 417;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_86;EHV1;1
+EHV Bus 419;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_87;EHV1;1
+EHV Bus 421;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_88;EHV1;1
+EHV Bus 423;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_229;EHV1;1
+EHV Bus 425;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_230;EHV1;1
+EHV Bus 427;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_231;EHV1;1
+EHV Bus 429;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_232;EHV1;1
+EHV Bus 431;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_233;EHV1;1
+EHV Bus 433;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_234;EHV1;1
+EHV Bus 435;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_235;EHV1;1
+EHV Bus 437;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_89;EHV1;1
+EHV Bus 439;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_90;EHV1;1
+EHV Bus 441;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_236;EHV1;1
+EHV Bus 443;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_91;EHV1;1
+EHV Bus 445;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_237;EHV1;1
+EHV Bus 447;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_92;EHV1;1
+EHV Bus 449;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_238;EHV1;1
+EHV Bus 451;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_239;EHV1;1
+EHV Bus 453;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_240;EHV1;1
+EHV Bus 455;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_241;EHV1;1
+EHV Bus 457;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_242;EHV1;1
+EHV Bus 459;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_93;EHV1;1
+EHV Bus 461;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_243;EHV1;1
+EHV Bus 463;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_94;EHV1;1
+EHV Bus 465;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_244;EHV1;1
+EHV Bus 467;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_245;EHV1;1
+EHV Bus 469;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_246;EHV1;1
+EHV Bus 471;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_247;EHV1;1
+EHV Bus 473;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_95;EHV1;1
+EHV Bus 475;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_96;EHV1;1
+EHV Bus 477;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_248;EHV1;1
+EHV Bus 479;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_249;EHV1;1
+EHV Bus 481;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_250;EHV1;1
+EHV Bus 483;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_251;EHV1;1
+EHV Bus 485;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_252;EHV1;1
+EHV Bus 487;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_253;EHV1;1
+EHV Bus 489;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_254;EHV1;1
+EHV Bus 491;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_255;EHV1;1
+EHV Bus 493;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_256;EHV1;1
+EHV Bus 495;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_97;EHV1;1
+EHV Bus 497;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_98;EHV1;1
+EHV Bus 499;double busbar;1.092;0.0;380;0.9;1.1;NULL;coord_99;EHV1;1
+EHV Bus 501;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_100;EHV1;1
+EHV Bus 503;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_101;EHV1;1
+EHV Bus 505;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_102;EHV1;1
+EHV Bus 507;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_103;EHV1;1
+EHV Bus 509;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_104;EHV1;1
+EHV Bus 511;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_105;EHV1;1
+EHV Bus 512;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_257;EHV1;1
+EHV Bus 513;double busbar;NULL;NULL;380;0.9;1.1;NULL;coord_258;EHV1;1
+EHV Bus 514;double busbar;1.092;NULL;380;0.9;1.1;NULL;coord_106;EHV1;1
+EHV Bus 1413;node;NULL;NULL;380;0.9;1.1;NULL;coord_259;EHV1;1
+EHV Bus 1414;node;NULL;NULL;380;0.9;1.1;NULL;coord_260;EHV1;1
+EHV Bus 1415;node;NULL;NULL;380;0.9;1.1;NULL;coord_261;EHV1;1
+EHV Bus 1416;node;NULL;NULL;380;0.9;1.1;NULL;coord_262;EHV1;1
+EHV Bus 1417;node;NULL;NULL;380;0.9;1.1;NULL;coord_263;EHV1;1
+EHV Bus 1418;node;NULL;NULL;380;0.9;1.1;NULL;coord_264;EHV1;1
+EHV Bus 1419;node;NULL;NULL;380;0.9;1.1;NULL;coord_265;EHV1;1
+EHV Bus 1420;node;NULL;NULL;380;0.9;1.1;NULL;coord_266;EHV1;1
+EHV Bus 1421;node;NULL;NULL;380;0.9;1.1;NULL;coord_267;EHV1;1
+EHV Bus 1422;node;NULL;NULL;380;0.9;1.1;NULL;coord_268;EHV1;1
+EHV Bus 1423;node;NULL;NULL;380;0.9;1.1;NULL;coord_269;EHV1;1
+EHV Bus 1424;node;NULL;NULL;380;0.9;1.1;NULL;coord_270;EHV1;1
+EHV Bus 1425;node;NULL;NULL;380;0.9;1.1;NULL;coord_271;EHV1;1
+EHV Bus 1426;node;NULL;NULL;380;0.9;1.1;NULL;coord_272;EHV1;1
+EHV Bus 1427;node;NULL;NULL;380;0.9;1.1;NULL;coord_273;EHV1;1
+EHV Bus 1428;node;NULL;NULL;380;0.9;1.1;NULL;coord_274;EHV1;1
+EHV Bus 1429;node;NULL;NULL;380;0.9;1.1;NULL;coord_275;EHV1;1
+EHV Bus 1430;node;NULL;NULL;380;0.9;1.1;NULL;coord_276;EHV1;1
+EHV Bus 1431;node;NULL;NULL;380;0.9;1.1;NULL;coord_277;EHV1;1
+EHV Bus 1432;node;NULL;NULL;380;0.9;1.1;NULL;coord_278;EHV1;1
+EHV Bus 1433;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_279;EHV1;1
+EHV Bus 1435;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_280;EHV1;1
+EHV Bus 1437;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_0;EHV1;1
+EHV Bus 1439;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_1;EHV1;1
+EHV Bus 1441;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_281;EHV1;1
+EHV Bus 1443;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_2;EHV1;1
+EHV Bus 1445;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_282;EHV1;1
+EHV Bus 1447;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_3;EHV1;1
+EHV Bus 1449;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_4;EHV1;1
+EHV Bus 1451;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_283;EHV1;1
+EHV Bus 1453;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_5;EHV1;1
+EHV Bus 1455;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_6;EHV1;1
+EHV Bus 1457;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_284;EHV1;1
+EHV Bus 1459;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_7;EHV1;1
+EHV Bus 1461;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_8;EHV1;1
+EHV Bus 1463;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_285;EHV1;1
+EHV Bus 1465;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_286;EHV1;1
+EHV Bus 1467;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_9;EHV1;1
+EHV Bus 1469;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_287;EHV1;1
+EHV Bus 1471;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_288;EHV1;1
+EHV Bus 1473;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_10;EHV1;1
+EHV Bus 1475;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_11;EHV1;1
+EHV Bus 1477;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_12;EHV1;1
+EHV Bus 1479;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_289;EHV1;1
+EHV Bus 1481;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_290;EHV1;1
+EHV Bus 1483;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_13;EHV1;1
+EHV Bus 1485;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_14;EHV1;1
+EHV Bus 1487;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_291;EHV1;1
+EHV Bus 1489;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_292;EHV1;1
+EHV Bus 1491;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_15;EHV1;1
+EHV Bus 1493;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_16;EHV1;1
+EHV Bus 1495;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_17;EHV1;1
+EHV Bus 1497;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_18;EHV1;1
+EHV Bus 1499;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_293;EHV1;1
+EHV Bus 1501;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_19;EHV1;1
+EHV Bus 1503;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_294;EHV1;1
+EHV Bus 1505;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_295;EHV1;1
+EHV Bus 1507;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_20;EHV1;1
+EHV Bus 1509;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_296;EHV1;1
+EHV Bus 1511;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_297;EHV1;1
+EHV Bus 1513;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_21;EHV1;1
+EHV Bus 1515;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_22;EHV1;1
+EHV Bus 1517;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_23;EHV1;1
+EHV Bus 1519;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_24;EHV1;1
+EHV Bus 1521;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_298;EHV1;1
+EHV Bus 1523;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_25;EHV1;1
+EHV Bus 1525;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_26;EHV1;1
+EHV Bus 1527;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_27;EHV1;1
+EHV Bus 1529;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_299;EHV1;1
+EHV Bus 1531;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_300;EHV1;1
+EHV Bus 1533;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_28;EHV1;1
+EHV Bus 1535;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_29;EHV1;1
+EHV Bus 1537;double busbar;1.068;0.0;220;0.9;1.1;NULL;coord_301;EHV1;1
+EHV Bus 1539;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_30;EHV1;1
+EHV Bus 1541;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_31;EHV1;1
+EHV Bus 1543;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_32;EHV1;1
+EHV Bus 1545;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_33;EHV1;1
+EHV Bus 1547;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_34;EHV1;1
+EHV Bus 1549;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_35;EHV1;1
+EHV Bus 1551;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_36;EHV1;1
+EHV Bus 1553;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_302;EHV1;1
+EHV Bus 1555;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_37;EHV1;1
+EHV Bus 1557;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_38;EHV1;1
+EHV Bus 1559;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_39;EHV1;1
+EHV Bus 1561;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_40;EHV1;1
+EHV Bus 1563;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_41;EHV1;1
+EHV Bus 1565;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_303;EHV1;1
+EHV Bus 1567;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_42;EHV1;1
+EHV Bus 1569;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_304;EHV1;1
+EHV Bus 1571;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_305;EHV1;1
+EHV Bus 1573;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_306;EHV1;1
+EHV Bus 1575;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_307;EHV1;1
+EHV Bus 1577;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_308;EHV1;1
+EHV Bus 1579;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_309;EHV1;1
+EHV Bus 1581;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_310;EHV1;1
+EHV Bus 1583;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_311;EHV1;1
+EHV Bus 1585;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_312;EHV1;1
+EHV Bus 1587;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_313;EHV1;1
+EHV Bus 1589;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_314;EHV1;1
+EHV Bus 1591;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_315;EHV1;1
+EHV Bus 1593;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_316;EHV1;1
+EHV Bus 1595;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_43;EHV1;1
+EHV Bus 1597;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_317;EHV1;1
+EHV Bus 1599;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_318;EHV1;1
+EHV Bus 1601;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_44;EHV1;1
+EHV Bus 1603;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_45;EHV1;1
+EHV Bus 1605;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_46;EHV1;1
+EHV Bus 1607;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_47;EHV1;1
+EHV Bus 1609;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_319;EHV1;1
+EHV Bus 1611;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_320;EHV1;1
+EHV Bus 1613;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_48;EHV1;1
+EHV Bus 1615;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_321;EHV1;1
+EHV Bus 1617;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_322;EHV1;1
+EHV Bus 1619;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_323;EHV1;1
+EHV Bus 1621;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_324;EHV1;1
+EHV Bus 1623;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_325;EHV1;1
+EHV Bus 1625;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_326;EHV1;1
+EHV Bus 1627;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_327;EHV1;1
+EHV Bus 1629;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_328;EHV1;1
+EHV Bus 1631;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_329;EHV1;1
+EHV Bus 1633;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_330;EHV1;1
+EHV Bus 1635;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_49;EHV1;1
+EHV Bus 1637;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_331;EHV1;1
+EHV Bus 1639;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_332;EHV1;1
+EHV Bus 1641;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_50;EHV1;1
+EHV Bus 1643;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_51;EHV1;1
+EHV Bus 1645;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_333;EHV1;1
+EHV Bus 1647;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_334;EHV1;1
+EHV Bus 1649;double busbar;NULL;NULL;220;0.9;1.1;EHV_HV_substation_3;coord_335;EHV1_HV1;1
+EHV Bus 1651;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_52;EHV1;1
+EHV Bus 1653;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_336;EHV1;1
+EHV Bus 1655;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_337;EHV1;1
+EHV Bus 1657;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_338;EHV1;1
+EHV Bus 1659;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_339;EHV1;1
+EHV Bus 1661;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_340;EHV1;1
+EHV Bus 1663;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_53;EHV1;1
+EHV Bus 1665;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_341;EHV1;1
+EHV Bus 1667;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_342;EHV1;1
+EHV Bus 1669;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_97;EHV1;1
+EHV Bus 1671;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_343;EHV1;1
+EHV Bus 1673;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_344;EHV1;1
+EHV Bus 1675;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_54;EHV1;1
+EHV Bus 1677;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_345;EHV1;1
+EHV Bus 1679;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_55;EHV1;1
+EHV Bus 1681;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_56;EHV1;1
+EHV Bus 1683;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_346;EHV1;1
+EHV Bus 1685;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_347;EHV1;1
+EHV Bus 1687;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_348;EHV1;1
+EHV Bus 1689;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_349;EHV1;1
+EHV Bus 1691;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_350;EHV1;1
+EHV Bus 1693;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_351;EHV1;1
+EHV Bus 1695;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_57;EHV1;1
+EHV Bus 1697;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_58;EHV1;1
+EHV Bus 1699;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_59;EHV1;1
+EHV Bus 1701;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_352;EHV1;1
+EHV Bus 1703;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_353;EHV1;1
+EHV Bus 1705;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_354;EHV1;1
+EHV Bus 1707;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_355;EHV1;1
+EHV Bus 1709;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_356;EHV1;1
+EHV Bus 1711;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_60;EHV1;1
+EHV Bus 1713;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_61;EHV1;1
+EHV Bus 1715;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_357;EHV1;1
+EHV Bus 1717;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_358;EHV1;1
+EHV Bus 1719;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_359;EHV1;1
+EHV Bus 1721;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_360;EHV1;1
+EHV Bus 1723;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_361;EHV1;1
+EHV Bus 1725;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_62;EHV1;1
+EHV Bus 1727;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_63;EHV1;1
+EHV Bus 1729;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_64;EHV1;1
+EHV Bus 1731;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_362;EHV1;1
+EHV Bus 1733;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_363;EHV1;1
+EHV Bus 1735;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_364;EHV1;1
+EHV Bus 1737;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_365;EHV1;1
+EHV Bus 1739;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_366;EHV1;1
+EHV Bus 1741;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_367;EHV1;1
+EHV Bus 1743;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_65;EHV1;1
+EHV Bus 1745;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_66;EHV1;1
+EHV Bus 1747;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_368;EHV1;1
+EHV Bus 1749;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_369;EHV1;1
+EHV Bus 1751;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_370;EHV1;1
+EHV Bus 1753;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_371;EHV1;1
+EHV Bus 1755;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_67;EHV1;1
+EHV Bus 1757;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_68;EHV1;1
+EHV Bus 1759;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_69;EHV1;1
+EHV Bus 1761;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_372;EHV1;1
+EHV Bus 1763;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_373;EHV1;1
+EHV Bus 1765;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_374;EHV1;1
+EHV Bus 1767;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_375;EHV1;1
+EHV Bus 1769;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_376;EHV1;1
+EHV Bus 1771;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_104;EHV1;1
+EHV Bus 1773;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_377;EHV1;1
+EHV Bus 1775;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_378;EHV1;1
+EHV Bus 1777;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_379;EHV1;1
+EHV Bus 1779;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_380;EHV1;1
+EHV Bus 1781;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_381;EHV1;1
+EHV Bus 1783;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_70;EHV1;1
+EHV Bus 1785;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_71;EHV1;1
+EHV Bus 1787;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_72;EHV1;1
+EHV Bus 1789;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_73;EHV1;1
+EHV Bus 1791;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_74;EHV1;1
+EHV Bus 1793;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_75;EHV1;1
+EHV Bus 1795;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_98;EHV1;1
+EHV Bus 1797;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_382;EHV1;1
+EHV Bus 1799;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_76;EHV1;1
+EHV Bus 1801;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_100;EHV1;1
+EHV Bus 1803;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_99;EHV1;1
+EHV Bus 1805;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_101;EHV1;1
+EHV Bus 1807;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_77;EHV1;1
+EHV Bus 1809;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_78;EHV1;1
+EHV Bus 1811;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_79;EHV1;1
+EHV Bus 1813;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_383;EHV1;1
+EHV Bus 1815;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_384;EHV1;1
+EHV Bus 1817;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_385;EHV1;1
+EHV Bus 1819;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_386;EHV1;1
+EHV Bus 1821;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_387;EHV1;1
+EHV Bus 1823;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_388;EHV1;1
+EHV Bus 1825;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_389;EHV1;1
+EHV Bus 1827;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_80;EHV1;1
+EHV Bus 1829;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_390;EHV1;1
+EHV Bus 1831;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_81;EHV1;1
+EHV Bus 1833;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_391;EHV1;1
+EHV Bus 1835;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_392;EHV1;1
+EHV Bus 1837;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_393;EHV1;1
+EHV Bus 1839;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_394;EHV1;1
+EHV Bus 1841;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_82;EHV1;1
+EHV Bus 1843;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_83;EHV1;1
+EHV Bus 1845;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_84;EHV1;1
+EHV Bus 1847;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_85;EHV1;1
+EHV Bus 1849;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_395;EHV1;1
+EHV Bus 1851;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_396;EHV1;1
+EHV Bus 1853;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_397;EHV1;1
+EHV Bus 1855;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_398;EHV1;1
+EHV Bus 1857;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_399;EHV1;1
+EHV Bus 1859;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_400;EHV1;1
+EHV Bus 1861;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_401;EHV1;1
+EHV Bus 1863;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_402;EHV1;1
+EHV Bus 1865;double busbar;1.068;NULL;220;0.9;1.1;EHV_HV_substation_4;coord_403;EHV1_HV2;1
+EHV Bus 1867;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_404;EHV1;1
+EHV Bus 1869;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_86;EHV1;1
+EHV Bus 1871;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_405;EHV1;1
+EHV Bus 1873;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_87;EHV1;1
+EHV Bus 1875;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_88;EHV1;1
+EHV Bus 1877;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_406;EHV1;1
+EHV Bus 1879;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_407;EHV1;1
+EHV Bus 1881;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_408;EHV1;1
+EHV Bus 1883;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_409;EHV1;1
+EHV Bus 1885;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_410;EHV1;1
+EHV Bus 1887;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_411;EHV1;1
+EHV Bus 1889;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_412;EHV1;1
+EHV Bus 1891;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_413;EHV1;1
+EHV Bus 1893;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_414;EHV1;1
+EHV Bus 1895;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_415;EHV1;1
+EHV Bus 1897;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_89;EHV1;1
+EHV Bus 1899;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_90;EHV1;1
+EHV Bus 1901;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_416;EHV1;1
+EHV Bus 1903;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_417;EHV1;1
+EHV Bus 1905;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_418;EHV1;1
+EHV Bus 1907;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_91;EHV1;1
+EHV Bus 1909;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_419;EHV1;1
+EHV Bus 1911;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_420;EHV1;1
+EHV Bus 1913;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_102;EHV1;1
+EHV Bus 1915;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_421;EHV1;1
+EHV Bus 1917;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_92;EHV1;1
+EHV Bus 1919;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_422;EHV1;1
+EHV Bus 1921;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_423;EHV1;1
+EHV Bus 1923;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_424;EHV1;1
+EHV Bus 1925;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_425;EHV1;1
+EHV Bus 1927;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_103;EHV1;1
+EHV Bus 1929;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_426;EHV1;1
+EHV Bus 1931;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_427;EHV1;1
+EHV Bus 1933;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_428;EHV1;1
+EHV Bus 1935;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_93;EHV1;1
+EHV Bus 1937;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_94;EHV1;1
+EHV Bus 1939;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_429;EHV1;1
+EHV Bus 1941;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_430;EHV1;1
+EHV Bus 1943;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_431;EHV1;1
+EHV Bus 1945;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_432;EHV1;1
+EHV Bus 1947;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_433;EHV1;1
+EHV Bus 1949;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_434;EHV1;1
+EHV Bus 1951;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_435;EHV1;1
+EHV Bus 1953;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_436;EHV1;1
+EHV Bus 1955;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_437;EHV1;1
+EHV Bus 1957;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_438;EHV1;1
+EHV Bus 1959;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_439;EHV1;1
+EHV Bus 1961;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_95;EHV1;1
+EHV Bus 1963;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_96;EHV1;1
+EHV Bus 1965;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_440;EHV1;1
+EHV Bus 1966;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_105;EHV1;1
+EHV Bus 1967;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_441;EHV1;1
+EHV Bus 1968;double busbar;1.068;NULL;220;0.9;1.1;NULL;coord_442;EHV1;1
+EHV Bus 1969;double busbar;NULL;NULL;220;0.9;1.1;NULL;coord_106;EHV1;1
+EHV Bus 3065;node;NULL;NULL;220;0.9;1.1;NULL;coord_443;EHV1;1
+EHV Bus 3066;node;NULL;NULL;220;0.9;1.1;NULL;coord_444;EHV1;1
+EHV Bus 3067;node;NULL;NULL;220;0.9;1.1;NULL;coord_445;EHV1;1
+EHV Bus 3068;node;NULL;NULL;220;0.9;1.1;NULL;coord_446;EHV1;1
+EHV Bus 3069;node;NULL;NULL;220;0.9;1.1;NULL;coord_447;EHV1;1
+EHV Bus 3070;node;NULL;NULL;220;0.9;1.1;NULL;coord_448;EHV1;1
+EHV Bus 3071;node;NULL;NULL;220;0.9;1.1;NULL;coord_449;EHV1;1
+EHV Bus 3072;node;NULL;NULL;220;0.9;1.1;NULL;coord_450;EHV1;1
+EHV Bus 3073;node;NULL;NULL;220;0.9;1.1;NULL;coord_451;EHV1;1
+EHV Bus 3074;node;NULL;NULL;220;0.9;1.1;NULL;coord_452;EHV1;1
+EHV Bus 3075;node;NULL;NULL;220;0.9;1.1;NULL;coord_453;EHV1;1
+EHV Bus 3076;node;NULL;NULL;220;0.9;1.1;NULL;coord_454;EHV1;1
+EHV Bus 3077;node;NULL;NULL;220;0.9;1.1;NULL;coord_455;EHV1;1
+EHV Bus 3078;node;NULL;NULL;220;0.9;1.1;NULL;coord_456;EHV1;1
+EHV Bus 3079;node;NULL;NULL;220;0.9;1.1;NULL;coord_457;EHV1;1
+EHV Bus 3080;node;NULL;NULL;220;0.9;1.1;NULL;coord_458;EHV1;1
+EHV Bus 3081;node;NULL;NULL;220;0.9;1.1;NULL;coord_459;EHV1;1
+EHV Bus 3082;node;NULL;NULL;220;0.9;1.1;NULL;coord_460;EHV1;1
+EHV Bus 3083;node;NULL;NULL;220;0.9;1.1;NULL;coord_461;EHV1;1
+EHV Bus 3084;node;NULL;NULL;220;0.9;1.1;NULL;coord_462;EHV1;1
+EHV Bus 3085;node;NULL;NULL;220;0.9;1.1;NULL;coord_463;EHV1;1
+HV1 Bus 1;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_464;HV1;3
+HV1 Bus 3;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_465;HV1;3
+HV1 Bus 5;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_466;HV1;3
+HV1 Bus 7;double busbar;1.025;NULL;110;0.9;1.1;NULL;coord_467;HV1;3
+HV1 Bus 9;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_468;HV1;3
+HV1 Bus 11;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_469;HV1;3
+HV1 Bus 13;busbar;NULL;NULL;110;0.9;1.1;HV1_MV4.101_Substation;coord_470;HV1_MV4.101;3
+HV1 Bus 15;double busbar;1.025;NULL;110;0.9;1.1;NULL;coord_471;HV1;3
+HV1 Bus 17;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.101_Substation;coord_472;HV1_MV1.101;3
+HV1 Bus 19;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV2.101_Substation;coord_473;HV1_MV2.101;3
+HV1 Bus 21;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_474;HV1;3
+HV1 Bus 23;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_475;HV1;3
+HV1 Bus 25;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV3.101_Substation;coord_476;HV1_MV3.101;3
+HV1 Bus 27;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_477;HV1;3
+HV1 Bus 29;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.102_Substation;coord_478;HV1_MV1.102;3
+HV1 Bus 31;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_479;HV1;3
+HV1 Bus 33;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_480;HV1;3
+HV1 Bus 35;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_481;HV1;3
+HV1 Bus 37;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_482;HV1;3
+HV1 Bus 39;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_483;HV1;3
+HV1 Bus 41;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.103_Substation;coord_484;HV1_MV1.103;3
+HV1 Bus 43;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_485;HV1;3
+HV1 Bus 45;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_486;HV1;3
+HV1 Bus 47;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV3.102_Substation;coord_487;HV1_MV3.102;3
+HV1 Bus 49;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.104_Substation;coord_488;HV1_MV1.104;3
+HV1 Bus 51;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_489;HV1;3
+HV1 Bus 53;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_490;HV1;3
+HV1 Bus 55;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV3.103_Substation;coord_491;HV1_MV3.103;3
+HV1 Bus 57;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_492;HV1;3
+HV1 Bus 59;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_493;HV1;3
+HV1 Bus 61;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_494;HV1;3
+HV1 Bus 63;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_495;HV1;3
+HV1 Bus 65;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.105_Substation;coord_496;HV1_MV1.105;3
+HV1 Bus 67;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_497;HV1;3
+HV1 Bus 69;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.106_Substation;coord_498;HV1_MV1.106;3
+HV1 Bus 71;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_499;HV1;3
+HV1 Bus 73;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_500;HV1;3
+HV1 Bus 75;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.107_Substation;coord_501;HV1_MV1.107;3
+HV1 Bus 77;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_502;HV1;3
+HV1 Bus 79;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_503;HV1;3
+HV1 Bus 81;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_504;HV1;3
+HV1 Bus 83;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_505;HV1;3
+HV1 Bus 85;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_506;HV1;3
+HV1 Bus 87;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_507;HV1;3
+HV1 Bus 89;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV2.102_Substation;coord_508;HV1_MV2.102;3
+HV1 Bus 91;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_509;HV1;3
+HV1 Bus 93;double busbar;NULL;NULL;110;0.9;1.1;HV1_MV2.103_Substation;coord_510;HV1_MV2.103;3
+HV1 Bus 95;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_511;HV1;3
+HV1 Bus 97;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_512;HV1;3
+HV1 Bus 99;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_513;HV1;3
+HV1 Bus 101;busbar;NULL;NULL;110;0.9;1.1;HV1_MV1.108_Substation;coord_514;HV1_MV1.108;3
+HV1 Bus 103;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_515;HV1;3
+HV1 Bus 105;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_516;HV1;3
+HV1 Bus 107;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_517;HV1;3
+HV1 Bus 109;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_518;HV1;3
+HV1 Bus 111;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_519;HV1;3
+HV1 Bus 113;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_520;HV1;3
+HV1 Bus 115;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_521;HV1;3
+HV1 Bus 117;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_522;HV1;3
+HV1 Bus 119;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_523;HV1;3
+HV1 Bus 121;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_524;HV1;3
+HV1 Bus 295;node;NULL;NULL;110;0.9;1.1;NULL;coord_525;HV1;3
+HV1 Bus 296;node;NULL;NULL;110;0.9;1.1;NULL;coord_526;HV1;3
+HV1 Bus 297;node;NULL;NULL;110;0.9;1.1;NULL;coord_527;HV1;3
+HV1 Bus 298;node;NULL;NULL;110;0.9;1.1;NULL;coord_528;HV1;3
+HV1 Bus 299;node;NULL;NULL;110;0.9;1.1;NULL;coord_529;HV1;3
+HV1 Bus 300;node;NULL;NULL;110;0.9;1.1;NULL;coord_530;HV1;3
+HV1 Bus 301;node;NULL;NULL;110;0.9;1.1;NULL;coord_531;HV1;3
+HV1 Bus 302;node;NULL;NULL;110;0.9;1.1;NULL;coord_532;HV1;3
+HV1 Bus 303;node;NULL;NULL;110;0.9;1.1;NULL;coord_533;HV1;3
+HV1 Bus 304;node;NULL;NULL;110;0.9;1.1;NULL;coord_534;HV1;3
+HV1 Bus 305;node;NULL;NULL;110;0.9;1.1;NULL;coord_535;HV1;3
+HV1 Bus 306;node;NULL;NULL;110;0.9;1.1;NULL;coord_536;HV1;3
+HV1 Bus 307;node;NULL;NULL;110;0.9;1.1;NULL;coord_537;HV1;3
+HV1 Bus 308;node;NULL;NULL;110;0.9;1.1;NULL;coord_538;HV1;3
+HV1 Bus 309;node;NULL;NULL;110;0.9;1.1;NULL;coord_539;HV1;3
+HV1 Bus 310;node;NULL;NULL;110;0.9;1.1;NULL;coord_540;HV1;3
+HV1 Bus 311;node;NULL;NULL;110;0.9;1.1;NULL;coord_541;HV1;3
+HV1 Bus 312;node;NULL;NULL;110;0.9;1.1;NULL;coord_542;HV1;3
+HV1 Bus 313;node;NULL;NULL;110;0.9;1.1;NULL;coord_543;HV1;3
+HV1 Bus 314;node;NULL;NULL;110;0.9;1.1;NULL;coord_544;HV1;3
+HV1 Bus 315;node;NULL;NULL;110;0.9;1.1;NULL;coord_545;HV1;3
+HV1 Bus 316;node;NULL;NULL;110;0.9;1.1;NULL;coord_546;HV1;3
+HV1 Bus 317;node;NULL;NULL;110;0.9;1.1;NULL;coord_547;HV1;3
+HV1 Bus 318;node;NULL;NULL;110;0.9;1.1;NULL;coord_548;HV1;3
+HV1 Bus 319;node;NULL;NULL;110;0.9;1.1;NULL;coord_549;HV1;3
+HV1 Bus 320;node;NULL;NULL;110;0.9;1.1;NULL;coord_550;HV1;3
+HV1 Bus 321;node;NULL;NULL;110;0.9;1.1;NULL;coord_551;HV1;3
+HV1 Bus 322;node;NULL;NULL;110;0.9;1.1;NULL;coord_552;HV1;3
+HV1 Bus 323;node;NULL;NULL;110;0.9;1.1;NULL;coord_553;HV1;3
+HV1 Bus 324;node;NULL;NULL;110;0.9;1.1;NULL;coord_554;HV1;3
+HV2 Bus 1;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_555;HV2;3
+HV2 Bus 7;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_556;HV2;3
+HV2 Bus 23;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_557;HV2;3
+HV2 Bus 27;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_558;HV2;3
+HV2 Bus 33;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_559;HV2;3
+HV2 Bus 38;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_560;HV2;3
+HV2 Bus 43;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_561;HV2;3
+HV2 Bus 46;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_562;HV2;3
+HV2 Bus 49;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_563;HV2;3
+HV2 Bus 53;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_564;HV2;3
+HV2 Bus 59;busbar;NULL;NULL;110;0.9;1.1;HV2_MV1.201_Substation;coord_565;HV2_MV1.201;3
+HV2 Bus 61;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_566;HV2;3
+HV2 Bus 65;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_567;HV2;3
+HV2 Bus 71;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_568;HV2;3
+HV2 Bus 75;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_569;HV2;3
+HV2 Bus 78;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_570;HV2;3
+HV2 Bus 83;double busbar;NULL;NULL;110;0.9;1.1;HV2_MV3.201_Substation;coord_571;HV2_MV3.201;3
+HV2 Bus 86;double busbar;NULL;NULL;110;0.9;1.1;HV2_MV2.201_Substation;coord_572;HV2_MV2.201;3
+HV2 Bus 90;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_573;HV2;3
+HV2 Bus 93;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_574;HV2;3
+HV2 Bus 96;busbar;NULL;NULL;110;0.9;1.1;HV2_MV1.202_Substation;coord_575;HV2_MV1.202;3
+HV2 Bus 98;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_576;HV2;3
+HV2 Bus 102;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_577;HV2;3
+HV2 Bus 105;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_578;HV2;3
+HV2 Bus 108;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_579;HV2;3
+HV2 Bus 119;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_580;HV2;3
+HV2 Bus 122;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_581;HV2;3
+HV2 Bus 125;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_582;HV2;3
+HV2 Bus 130;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_583;HV2;3
+HV2 Bus 133;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_584;HV2;3
+HV2 Bus 137;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_585;HV2;3
+HV2 Bus 141;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_586;HV2;3
+HV2 Bus 149;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_587;HV2;3
+HV2 Bus 152;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_588;HV2;3
+HV2 Bus 155;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_589;HV2;3
+HV2 Bus 161;busbar;NULL;NULL;110;0.9;1.1;HV2_MV4.201_Substation;coord_590;HV2_MV4.201;3
+HV2 Bus 163;busbar;NULL;NULL;110;0.9;1.1;HV2_MV4.202_Substation;coord_591;HV2_MV4.202;3
+HV2 Bus 165;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_592;HV2;3
+HV2 Bus 168;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_593;HV2;3
+HV2 Bus 172;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_594;HV2;3
+HV2 Bus 175;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_595;HV2;3
+HV2 Bus 182;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_596;HV2;3
+HV2 Bus 187;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_597;HV2;3
+HV2 Bus 192;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_598;HV2;3
+HV2 Bus 195;double busbar;NULL;NULL;110;0.9;1.1;HV2_MV3.202_Substation;coord_599;HV2_MV3.202;3
+HV2 Bus 199;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_600;HV2;3
+HV2 Bus 204;busbar;NULL;NULL;110;0.9;1.1;HV2_MV1.203_Substation;coord_601;HV2_MV1.203;3
+HV2 Bus 206;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_602;HV2;3
+HV2 Bus 212;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_603;HV2;3
+HV2 Bus 216;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_604;HV2;3
+HV2 Bus 221;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_605;HV2;3
+HV2 Bus 226;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_606;HV2;3
+HV2 Bus 229;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_607;HV2;3
+HV2 Bus 236;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_608;HV2;3
+HV2 Bus 243;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_609;HV2;3
+HV2 Bus 246;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_610;HV2;3
+HV2 Bus 254;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_611;HV2;3
+HV2 Bus 257;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_612;HV2;3
+HV2 Bus 260;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_613;HV2;3
+HV2 Bus 265;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_614;HV2;3
+HV2 Bus 270;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_615;HV2;3
+HV2 Bus 274;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_616;HV2;3
+HV2 Bus 278;busbar;NULL;NULL;110;0.9;1.1;HV2_MV4.203_Substation;coord_617;HV2_MV4.203;3
+HV2 Bus 280;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_618;HV2;3
+HV2 Bus 286;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_619;HV2;3
+HV2 Bus 290;double busbar;NULL;NULL;110;0.9;1.1;HV2_MV2.203_Substation;coord_620;HV2_MV2.203;3
+HV2 Bus 296;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_621;HV2;3
+HV2 Bus 304;busbar;NULL;NULL;110;0.9;1.1;HV2_MV1.204_Substation;coord_622;HV2_MV1.204;3
+HV2 Bus 306;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_623;HV2;3
+HV2 Bus 310;double busbar;NULL;NULL;110;0.9;1.1;HV2_MV2.202_Substation;coord_624;HV2_MV2.202;3
+HV2 Bus 313;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_625;HV2;3
+HV2 Bus 318;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_626;HV2;3
+HV2 Bus 322;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_627;HV2;3
+HV2 Bus 329;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_628;HV2;3
+HV2 Bus 336;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_629;HV2;3
+HV2 Bus 339;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_630;HV2;3
+HV2 Bus 347;busbar;NULL;NULL;110;0.9;1.1;HV2_MV1.205_Substation;coord_631;HV2_MV1.205;3
+HV2 Bus 349;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_632;HV2;3
+HV2 Bus 354;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_633;HV2;3
+HV2 Bus 357;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_634;HV2;3
+HV2 Bus 361;double busbar;NULL;NULL;110;0.9;1.1;NULL;coord_635;HV2;3
+HV2 Bus 368;node;NULL;NULL;110;0.9;1.1;NULL;coord_636;HV2;3
+HV2 Bus 369;node;NULL;NULL;110;0.9;1.1;NULL;coord_637;HV2;3
+HV2 Bus 370;node;NULL;NULL;110;0.9;1.1;NULL;coord_638;HV2;3
+HV2 Bus 371;node;NULL;NULL;110;0.9;1.1;NULL;coord_639;HV2;3
+HV2 Bus 372;node;NULL;NULL;110;0.9;1.1;NULL;coord_640;HV2;3
+HV2 Bus 373;node;NULL;NULL;110;0.9;1.1;NULL;coord_641;HV2;3
+HV2 Bus 374;node;NULL;NULL;110;0.9;1.1;NULL;coord_642;HV2;3
+HV2 Bus 375;node;NULL;NULL;110;0.9;1.1;NULL;coord_643;HV2;3
+HV2 Bus 376;node;NULL;NULL;110;0.9;1.1;NULL;coord_644;HV2;3
+HV2 Bus 377;node;NULL;NULL;110;0.9;1.1;NULL;coord_645;HV2;3
+HV2 Bus 378;node;NULL;NULL;110;0.9;1.1;NULL;coord_646;HV2;3
+HV2 Bus 379;node;NULL;NULL;110;0.9;1.1;NULL;coord_647;HV2;3
+HV2 Bus 380;node;NULL;NULL;110;0.9;1.1;NULL;coord_648;HV2;3
+HV2 Bus 381;node;NULL;NULL;110;0.9;1.1;NULL;coord_649;HV2;3
+HV2 Bus 382;node;NULL;NULL;110;0.9;1.1;NULL;coord_650;HV2;3
+HV2 Bus 383;node;NULL;NULL;110;0.9;1.1;NULL;coord_651;HV2;3
+HV2 Bus 384;node;NULL;NULL;110;0.9;1.1;NULL;coord_652;HV2;3
+HV2 Bus 385;node;NULL;NULL;110;0.9;1.1;NULL;coord_653;HV2;3
