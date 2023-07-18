@@ -151,3 +151,10 @@ Für weitere Quellen ist das Literaturverzeichnis der Dissertation zu beachten.
 7.) Datenversionen/ Versionsverlauf: Version zur Einreichung und Veröffentlichung der Dissertation v1.0 und v2.0 (Readme angepasst)
 
 8.) Freier Zugang, offene Lizenz: BSD 3-Clause License
+
+https://zenodo.org/badge/latestdoi/667772118
+
+.. image:: https://zenodo.org/badge/667772118.svg
+   :target: https://zenodo.org/badge/latestdoi/667772118
+   
+   [![DOI](https://zenodo.org/badge/667772118.svg)](https://zenodo.org/badge/latestdoi/667772118)
